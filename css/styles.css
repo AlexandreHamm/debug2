@@ -1,0 +1,57 @@
+/* GENERAL */
+body{
+    background-color: rgb(17, 65, 17);
+    /* color: lightgoldenrodyellow; */
+    /* font-size: 5rem; */
+}
+/* NAVBAR */
+.navbar{
+    background-color:rgba(255, 255, 255, 0.919);
+}
+.nav-link:hover{
+    color: rgb(33, 196, 41) !important;
+}
+/* CONTAINER */
+.container{
+    background-color: rgba(255, 255, 255, 0.919);
+}
+/* CARDS */
+.card{
+    background-color:rgba(255, 255, 255, 0.919);
+    margin-bottom: 5px;
+}
+.card-header{
+    margin-top: 20px;
+}
+.card-title{
+    margin: 20px;
+}
+.buy{
+    width: 20%;
+}
+/* scrollspy DESCRIPTION */
+.scroll-description{
+    height: 250px;
+    overflow-y: scroll;
+}
+.scroll-description h4{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.scroll-description p{
+    margin-left: 35px;
+}
+#navbar-example2{
+    margin-top: 20px;
+}
+/* PROGRESS BAR */
+.progress-div h4{
+    margin: 15px;
+}
+
+/* LAPINS */
+.univers{
+    max-width: 25rem;
+    max-height: 25rem;
+    overflow-y: scroll;
+}
